@@ -1,4 +1,7 @@
 # Sample-Output
+
+Gets status data for this sonnenBatterie. This endpoint does not require an authentication token.
+
 ``` json
 {
   "Apparent_output": 418,
