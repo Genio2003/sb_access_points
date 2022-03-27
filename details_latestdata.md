@@ -1,4 +1,7 @@
 # Sample-Output
+
+Gets latest data for this sonnenBatterie.
+
 ``` json
 {
   "Consumption_W": 0,
