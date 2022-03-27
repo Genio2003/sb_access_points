@@ -12,13 +12,13 @@ GET
 | http://\<IP\>:8080/api/battery_system | Eco 8.0 | TBD - (Empty response, Use-Case?)|
 | http://\<IP\>:8080/api/ios | Eco 8.0 | TBD |
 | http://\<IP\>:80/api/v2/latestdata | Eco 8.0 | [Details](details_latestdata.md) - (Requires authentification by token) |
-| http://\<IP\>:80/api/v2/configurations/{name} | Eco 8.0 | [Details](details_configurations/{name}.md) - (Requires authentification by token)|
+| http://\<IP\>:80/api/v2/configurations/{name} | Eco 8.0 | [Details](details_configurations_[GET].md) - (Requires authentification by token)|
 
 PUT
 
 | API-Call    | Supported Battery Models | Details |
 | ----------- |:------------------------:| -------:|
-| http://\<IP\>:80/api/v2/configurations/\<config\> | Eco 8.0 | TBD - (Requires authentification by token) |
+| http://\<IP\>:80/api/v2/configurations/ | Eco 8.0 | [Details](details_configurations_[PUT].md) - (Requires authentification by token) |
 
 POST
 
