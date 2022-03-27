@@ -24,8 +24,8 @@ POST
 
 | API-Call    | Supported Battery Models | Details |
 | ----------- |:------------------------:| -------:|
-| http://\<IP\>:80/api/v2/setpoint/discharge/{watt} | (Not tested yet) | TBD |
-| http://\<IP\>:80/api/v2/setpoint/charge/{watt} | (Not tested yet) | TBD |
+| http://\<IP\>:80/api/v2/setpoint/discharge/{watt} | (Not tested yet) | [Details](details_setpoint_discharge.md) |
+| http://\<IP\>:80/api/v2/setpoint/charge/{watt} | (Not tested yet) | [Details](details_setpoint_charge.md) |
 
 # Webhooks
 
